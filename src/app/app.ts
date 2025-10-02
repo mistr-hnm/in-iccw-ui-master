@@ -1,12 +1,23 @@
+import { CommonModule } from '@angular/common';
 import { Component, signal } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { RouterLink, RouterOutlet } from '@angular/router';
+
+import { SHARED_IMPORTS } from './shared/shared';
+import { Layout } from './shared/layout/layout';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
+  imports: [
+    SHARED_IMPORTS,
+    CommonModule,
+    RouterLink,
+    RouterOutlet,
+    Layout,
+  ],
   templateUrl: './app.html',
-  styleUrl: './app.scss'
 })
 export class App {
-  protected readonly title = signal('in-iccw-ui-master');
+
+  protected readonly footerLink = signal('google');
+  protected readonly footerUrl = signal('www.google.com');
 }
