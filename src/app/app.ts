@@ -1,6 +1,5 @@
 import { CommonModule } from '@angular/common';
 import { Component, signal } from '@angular/core';
-import { RouterLink, RouterOutlet } from '@angular/router';
 
 import { SHARED_IMPORTS } from './shared/shared';
 import { Layout } from './shared/layout/layout';
@@ -9,9 +8,7 @@ import { Layout } from './shared/layout/layout';
   selector: 'app-root',
   imports: [
     SHARED_IMPORTS,
-    CommonModule,
-    RouterLink,
-    RouterOutlet,
+    CommonModule, 
     Layout,
   ],
   templateUrl: './app.html',
