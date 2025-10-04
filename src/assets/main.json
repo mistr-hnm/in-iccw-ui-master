@@ -1,0 +1,2706 @@
+{
+  "api": "https://inventory-prod-api.azurewebsites.net/api/inventory/dashboard/GetWindowsUpdateData",
+  "status": true,
+  "response": [
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473514,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2017-05",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB4023680"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473515,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2017-07",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB4025334"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473516,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2017-08",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB4039396"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473517,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2017-09",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB4038801"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473518,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2018-04",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB4093119"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473519,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2018-04",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB4093120"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473520,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2018-05",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB4103720"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473521,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2018-05",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB4103723"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473522,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2018-07",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB4346877"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473523,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2018-10",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB4462917"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473524,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2018-10",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB4462928"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473525,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2018-10",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB4464455"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473526,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2018-11",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB4467691"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473527,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2018-11",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB4478877"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473528,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2018-11",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB4469342"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473529,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2018-12",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4483187"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473530,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2018-12",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4471318"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473531,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-01",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4480965"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473532,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-01",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB4476976"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473533,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-01",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4480970"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473534,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-02",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4486474"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473535,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-02",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB4482887"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473536,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-02",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4486563"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473537,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-03",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4489873"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473538,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-03",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB4490481"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473539,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-03",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4489878"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473540,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-04",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4493435"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473541,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-04",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB4493470"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473542,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-04",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB4499418"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473543,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-04",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB4495667"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473544,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-04",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4493472"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473545,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-05",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4498206"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473546,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-05",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB4494440"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473547,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-05",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB4497934"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473548,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-05",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB4501835"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473549,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-05",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB4505056"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473550,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-05",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4499164"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473551,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-06",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4503259"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473552,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-06",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB4501371"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473553,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-06",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB4509479"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473554,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-06",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4503292"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473555,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-07",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4507434"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473556,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-07",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB4505658"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473557,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-07",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4507449"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473558,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-08",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4511872"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473559,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-08",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB4512534"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473560,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-08",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4512506"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473561,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-09",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4516046"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473562,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-09",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4522007"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473563,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-09",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4516065"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473564,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-10",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4519974"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473565,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-10",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4524135"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473566,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-10",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB4520062"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473567,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-10",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4519976"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473568,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-10",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4524157"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473569,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-11",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4525106"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473570,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-11",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4525235"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473571,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-12",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4530677"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473572,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2019-12",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4530734"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473573,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-01",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4534251"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473574,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-01",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB4534307"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473575,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-01",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB4534321"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473576,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-01",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4534310"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473577,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-02",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4537767"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473578,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-02",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB4537806"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473579,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-02",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB4537818"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473614,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-03",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5001633"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473615,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-03",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5000822"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473714,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-02",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5022838"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473580,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-02",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4537820"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473682,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-06",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5014692"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473581,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-03",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4540671"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473684,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-07",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB5015805"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473582,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-03",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB4541329"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473686,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-07",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5015811"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473583,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-03",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB4541331"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473688,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-08",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB5016618"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473584,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-03",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB4554354"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473690,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-08",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5016623"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473691,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-08",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB5016676"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473585,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-03",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4540688"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473586,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-04",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4550905"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473693,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-09",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5017315"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473694,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-09",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB5017361"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473587,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-04",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB4550947"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473588,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-04",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB4550969"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473697,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-10",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5020439"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473698,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-10",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5018419"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473589,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-04",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4550964"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473590,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-05",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4556798"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473701,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-11",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB5019958"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473591,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-05",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4556836"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473592,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-06",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4561603"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473704,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-11",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5019966"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473705,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-11",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5021655"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473593,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-06",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB4567517"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473708,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-12",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5021237"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473594,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-06",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB4567513"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473710,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-12",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB5021291"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473595,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-06",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4561643"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473712,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-01",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5022286"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473596,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-07",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4565479"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473715,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-02",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5022840"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473597,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-07",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4565524"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473717,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-03",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5023702"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473598,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-08",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4571687"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473719,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-04",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5025229"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473599,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-08",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4571729"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473721,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-05",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5026362"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473600,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-09",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4577010"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473723,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-06",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5028623"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473601,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-09",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4577051"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473725,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-07",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5028169"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473602,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-10",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB4577668"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473727,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-08",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5029242"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473603,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-10",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4580345"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473729,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-09",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5030213"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473604,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-11",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB4586768"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473731,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-10",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5031362"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473732,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-10",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5031361"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473605,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-11",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB4594441"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473606,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-11",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB4586793"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473734,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-11",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5032196"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473735,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-12",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5033373"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473607,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-11",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB4594442"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473608,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-11",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4586827"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473738,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2024-01",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5034127"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473609,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2020-12",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4592471"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473610,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-01",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4598279"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473611,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-02",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB4601347"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473612,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-03",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB5000800"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473613,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-03",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5000803"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473616,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-03",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5001568"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473617,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-03",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5001638"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473618,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-03",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB5000841"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473619,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-04",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5001347"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473620,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-04",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5001342"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473621,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-04",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB5001335"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473622,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-05",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB5003165"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473623,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-05",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5003197"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473624,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-05",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5003171"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473625,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-05",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB5003233"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473626,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-06",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB5003636"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473627,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-06",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5003638"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473628,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-06",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5003646"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473629,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-06",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB5003667"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473630,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-07",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB5004233"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473631,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-07",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5004238"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473632,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-07",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5004948"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473633,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-07",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5005393"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473634,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-07",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5004244"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473635,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-07",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5004947"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473636,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-07",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5005394"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473637,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-07",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB5004289"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473638,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-07",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB5004953"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473639,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-08",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB5005036"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473640,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-08",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5005043"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473641,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-08",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5005030"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473642,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-08",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB5005088"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473643,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-09",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB5005563"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473644,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-09",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5005573"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473645,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-09",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5005568"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473646,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-09",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB5005633"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473647,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-10",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB5006671"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473648,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-10",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5006669"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473649,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-10",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5006672"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473650,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-10",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB5006743"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473651,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-11",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5007192"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473652,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-11",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5008601"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473653,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-11",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5007206"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473654,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-11",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5008602"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473655,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-11",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB5007236"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473656,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-12",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5008207"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473657,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-12",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5008218"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473658,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2021-12",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB5008244"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473659,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-01",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5009546"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473660,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-01",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5010195"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473661,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-01",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5010790"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473662,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-01",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5009557"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473663,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-01",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5010196"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473664,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-01",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5010791"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473665,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-01",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB5009610"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473666,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-02",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5010359"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473667,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-02",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5010351"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473668,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-02",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB5010404"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473669,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-03",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB5011486"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473670,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-03",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5011495"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473671,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-03",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5011503"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473672,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-03",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB5011552"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473673,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-04",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5012596"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473674,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-04",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5012647"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473675,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-04",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB5012626"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473676,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-05",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5013952"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473677,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-05",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5015019"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473678,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-05",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5013941"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473679,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-05",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5015018"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473680,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-05",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB5014012"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473681,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-06",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5014702"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473683,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-06",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB5014748"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473685,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-07",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5015808"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473687,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-07",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB5015861"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473689,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-08",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5016622"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473692,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-09",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5017305"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473695,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-10",
+        "Description": "Cumulative Security Update for Internet Explorer 11 for Windows 7 for x86-based systems",
+        "Name": "KB5018413"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473696,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-10",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5018411"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473699,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-10",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5020438"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473700,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-10",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB5018454"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473702,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-11",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5019964"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473703,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-11",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5021654"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473706,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-11",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB5020000"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473707,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-12",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5021235"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473709,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2022-12",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5022554"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473711,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-01",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5022289"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473713,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-01",
+        "Description": "Security Monthly Quality Rollup for Windows 7 for x86-based Systems",
+        "Name": "KB5022338"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473716,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-03",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5023697"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473718,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-04",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5025228"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473720,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-05",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5026363"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473722,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-06",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5027219"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473724,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-06",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5027222"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473726,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-07",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5028168"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473728,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-08",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5029247"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473730,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-09",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5030214"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473733,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-11",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5032197"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473736,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2023-12",
+        "Description": "Cumulative Update for Windows 10 Version 1809 for x64-based Systems",
+        "Name": "KB5033371"
+    },
+    {
+        "_id": {
+            "timestamp": 1706519107,
+            "machine": 1150545,
+            "pid": 25817,
+            "increment": 14473737,
+            "creationTime": "2024-01-29T09:05:07Z"
+        },
+        "Caption": "2024-01",
+        "Description": "Cumulative Update for Windows 10 Version 1607 for x64-based Systems",
+        "Name": "KB5034119"
+    }
+]
+}

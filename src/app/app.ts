@@ -2,13 +2,13 @@ import { CommonModule } from '@angular/common';
 import { Component, signal } from '@angular/core';
 
 import { SHARED_IMPORTS } from './shared/shared';
-import { Layout } from './shared/layout/layout';
+import { Layout } from './shared/layout/layout'; 
 
 @Component({
   selector: 'app-root',
   imports: [
     SHARED_IMPORTS,
-    CommonModule, 
+    CommonModule,  
     Layout,
   ],
   templateUrl: './app.html',
