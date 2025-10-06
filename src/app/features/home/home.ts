@@ -3,6 +3,7 @@ import { ConfigService } from '../../services/config';
 import { SHARED_IMPORTS } from '../../shared/shared';
 import { MatPaginator } from '@angular/material/paginator';
 import { MatTableDataSource } from '@angular/material/table';
+import { Router } from '@angular/router';
 
 interface PeriodicElement {
   name: string;
@@ -22,7 +23,10 @@ interface PeriodicElement {
 
 export class Home implements OnInit {
 
-  constructor(private configService: ConfigService) { }
+  constructor(
+      private configService: ConfigService,
+      private router: Router
+  ) { }
 
   displayedColumns: string[] = [ 'name', 'pid','machine', 'caption','action'];
   dataSource = new MatTableDataSource<PeriodicElement>([]);
@@ -47,8 +51,9 @@ export class Home implements OnInit {
     });
   }
 
-  onView(element : PeriodicElement){
+  onView(element : PeriodicElement){    
     console.log("element",element);
+    this.router.navigate(['/inventory']);
     
   }
 }

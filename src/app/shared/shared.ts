@@ -6,6 +6,7 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatMenuModule } from '@angular/material/menu';
 import { MatTableModule } from '@angular/material/table';
 import { MatPaginatorModule } from '@angular/material/paginator';
+import {MatTabsModule} from '@angular/material/tabs';
 
 
 export const SHARED_IMPORTS = [
@@ -16,5 +17,6 @@ export const SHARED_IMPORTS = [
     MatButtonModule,
     MatMenuModule,
     MatTableModule,
-    MatPaginatorModule
+    MatPaginatorModule,
+    MatTabsModule
 ];
